@@ -1,5 +1,14 @@
-title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+title	type	url_slug	venue	date	location	talk_url	authors
+Speaker statistical averageness modulates word recognition in adverse listening conditions.	Talk	icphs-2019	ICPhS 2019	2019-08-08	Melbourne, Australia		Schuerman, W. L., McQueen, J. M., & Meyer, A.
+Sparking neural plasticity	Talk	postdocslam-2018	UCSF Postdoc Slam	2018-11-19	San Francisco, California	https://www.youtube.com/watch?v=cQyWMwB2Wig&t=18s
+Transcutaneous vagus nerve stimulation enhances non-native speech categorization.	Poster	nbl-2018	Tenth Annual Meeting of the Society for the Neurobiology of Language	2018-08-16	Quebec City, Canada		Fernando Llanos, Jacie R. McHaney, Matthew K. Leonard, William L. Schuerman, Han G. Yi, Bharath Chandrasekaran
+Be like me or be like everyone: Effects of phonetic prototypicality on speech recognition.	Talk	mpi-2016	MPI Proudly Presents	2016-06-01	Nijmegen, the Netherlands		W. L. Schuerman
+Praatalign: Phonetic alignment made easier for psycholinguistic data processing.	Poster	amlap-2015	AMLaP XXI	2015-08-03	Valleta, Malta		Schuerman, W., Torreira, F., & Lubbers, M. 
+Changes in consonant perception driven by adaptation of vowel production to altered auditory feedback.	Poster	icphs-2015	ICPhS 2015	2015-08-10	Glasgow, Scotland		Schuerman, W., Nagarajan, S., & Houde, J. 
+Speaker intelligibility may influence perception acuity.	Talk	bias-2014	Bias in Auditory Perception	2014-09-19	Aarhus, Denmark		Schuerman, W., Meyer, A., & McQueen, J. 
+Listeners recognize others’ speech better than their own.	Poster	amlap-2014	AMLaP XX	2014-09-03	Edinburgh, Scotland		Schuerman, W., Meyer, A., & McQueen, J. 
+Do listeners recognize others’ speech better than their own?	Talk	mpi-2014	MPI Proudly Presents	2014-06-12	Nijmegen, the Netherlands		Schuerman, W., Meyer, A., & McQueen, J. 
+Development of vowel spaces from age 21 to age 49 in a group of 8 talkers.	Talk	interdisciplinary-2013	5th International and Interdisciplinary Research Conference	2013-10-06	Indiana University, Bloomington		Lutzross, A., Schuerman, W., Sprouse, R., & Gahl, S. 
+The limited power of sound symbolism.	Talk	amplap-2012	AMLaP XVIII	2012-09-06	Riva del Garda, Italy		Mitterer, H., Schuerman, W., Reinisch, E., Tufvesson, S., & Dingemanse, M.
+Smile with a smile.	Talk	interspeech-2012	Interspeech 2012	2012-09-09	Portland, OR, USA		Quené, H. & Schuerman, W. 
+Motor resonance in the production of ’smile-words.’	Talk	young-2011	4th annual conference of Young Linguists in Dialogue	2011-05-14	Wrocław, Poland		Schuerman, W. & Quené, H. 
