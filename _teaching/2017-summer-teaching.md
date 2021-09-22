@@ -3,9 +3,9 @@ title: "English 101B: Critical Thinking, Reading and Writing."
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-summer-teaching
-venue: "Mt. Tamalpais College"
+venue: "Patten University at San Quentin"
 date: 2017-06-01
-location: "Patten University at San Quentin, CA"
+location: "Patten University at San Quentin"
 ---
 
 English 101B: Critical Thinking, Reading and Writing.
