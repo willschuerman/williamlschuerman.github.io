@@ -12,4 +12,3 @@ Tags: cortical stimulation, peripheral stimulation, ECoG, methods
 
 [Download paper here](10.1109/NER.2019.8716980)
 
-Recommended citation: Sellers, K.K., Schuerman, W.L., Dawes, H. E., Chang, E. F., & Leonard, M. K., (2019). "Comparison of Common Artifact Rejection Methods applied to Direct Cortical and Peripheral Stimulation in Human ECoG." In <i>2019 9th International IEEE/EMBS Conference on Neural Engineering (NER)</i>, Mar. 2019, pp. 77–80

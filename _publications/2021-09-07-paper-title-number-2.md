@@ -9,4 +9,3 @@ citation: 'Han, G. Y., Chandrasekaran, B., Nourski, K.V., Rhone, A.E., Schuerman
 ---
 Tags: sound learning, ECoG
 
-Recommended citation: Han, G. Y., Chandrasekaran, B., Nourski, K.V., Rhone, A.E., Schuerman, W. L., Howard, M. A., Chang, E. F., & Leonard, M. K. (2021). "Learning nonnative speech sounds changes local encoding in the adult human cortex." <i>Proceedings of the National Academy of Sciences</i>, 118(36).

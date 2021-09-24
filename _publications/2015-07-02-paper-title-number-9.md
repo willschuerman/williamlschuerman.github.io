@@ -11,5 +11,3 @@ citation: 'Schuerman, W., Meyer, A. S., &amp; McQueen, J. M. (2015). &quot;Do we
 Tags: speech perception, phonetics, psycholinguistics
 
 [Download paper here](10.1371/journal.pone.0129731)
-
-Recommended citation: Schuerman, W., Meyer, A. S., & McQueen, J. M. (2015). "Do we perceive others better than ourselves? A perceptual benefit for noise-vocoded speech produced by an average speaker." <i>PLoS One</i>, 10(7): e0129731

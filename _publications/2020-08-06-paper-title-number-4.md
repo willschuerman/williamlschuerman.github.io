@@ -12,4 +12,3 @@ Tags: sound learning, transcutaneous auricular vagus nerve stimulation (taVNS), 
 
 [Download paper here](10.1038/s41539-020-0070-0.)
 
-Recommended citation: Llanos, F., McHaney, J. R., Schuerman, W. L., Yi, H. G., Leonard, M. K., & Chandrasekaran, B. (2020). "Non-invasive peripheral nerve stimulation selectively enhances speech category learning in adults."  <i>npj Science of Learning</i>, 5(1)

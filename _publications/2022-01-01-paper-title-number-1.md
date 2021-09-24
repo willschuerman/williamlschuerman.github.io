@@ -8,5 +8,3 @@ venue: 'In Rivision'
 citation: 'Schuerman, W. L., Nourski, K. V., Rhone, A. E., Howard, M. A., Chang, E. F., &amp; Leonard, M. K. (2021). &quot;Human intracranial recordings reveal distinct cortical activity patterns during invasive and non-invasive vagus nerve stimulation.&quot; <i>In Review</i>.'
 ---
 Tags: vagus nerve stimulation, neuromodulation, taVNS, ECoG
-
-Recommended citation: Schuerman, W. L., Nourski, K. V., Rhone, A. E., Howard, M. A., Chang, E. F., & Leonard, M. K. (2021). "Human intracranial recordings reveal distinct cortical activity patterns during invasive and non-invasive vagus nerve stimulation." <i>In Rivision</i>.

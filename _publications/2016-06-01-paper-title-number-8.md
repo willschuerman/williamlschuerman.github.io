@@ -9,4 +9,3 @@ citation: 'Dingemanse, M., Schuerman, W., Reinisch, E., Tufvesson, S., &amp; Mit
 ---
 Tags: phonetics, sound symbolism, psycholinguistics
 
-Recommended citation: Dingemanse, M., Schuerman, W., Reinisch, E., Tufvesson, S., & Mitterer, H. (2016). "What sound symbolism can and cannot do: testing the iconicity of ideophones from five languages." <i>Language</i>, 92(2), e67-e83.
